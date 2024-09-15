@@ -25,7 +25,6 @@ TicTacLive is a real-time multiplayer Tic-Tac-Toe game built using React, Tailwi
 2. **Join a Game**:
    - If you received a game code from a friend, select the "Join Game" option.
    - Enter the game code to join the ongoing game.
-
 ![image](https://github.com/user-attachments/assets/f509ae8a-b3ef-4d4c-a0bf-f68b631c84b1)
 
 3. **Wait for Both Players**:
@@ -36,16 +35,13 @@ TicTacLive is a real-time multiplayer Tic-Tac-Toe game built using React, Tailwi
    - The game board will be displayed once both players have joined.
    - Click on any of the available squares to place your marker (`X` or `O`).
    - Players take turns placing their markers on the board.
-
 ![image](https://github.com/user-attachments/assets/09826f78-2c52-4a2c-8610-1bb127c7499d)
 
 5. **Win or Draw**:
    - The game automatically detects a win, lose, or draw condition.
    - If a player wins or the game ends in a draw, the result will be displayed on a new screen for both players.
-
 ![image](https://github.com/user-attachments/assets/367f444f-f533-45eb-bbc2-941af3e97e52)
 
 6. **Theme Switching**:
    - During the game, you can switch between different themes (Blue, Pink, Black-White) using the theme toggler in the game UI.
-
 ![image](https://github.com/user-attachments/assets/b697b8e6-40e1-4d28-ae6d-562ad2a451fd)
