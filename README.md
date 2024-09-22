@@ -1,4 +1,4 @@
-# TicTacLive
+# TicTacLive - Multiplayer-Tic-Tac-Toe
 TicTacLive is a real-time multiplayer Tic-Tac-Toe game built using React, Tailwind CSS, Node.js, Express, and Socket.IO. It allows two players to play the classic game over the web by sharing a unique game code.
 
 ## Features
